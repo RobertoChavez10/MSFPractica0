@@ -3,9 +3,7 @@
 # Práctica 0: Modelo del sistema respiratorio
 
 ## Información del estudiante
-Chávez González Roberto - 22210884
-l22210884@tectijuana.edu.mx
-Paul A. Valle \[05211261]; paul.vt@tijuana.tecn.mx
+Chávez González Roberto[22210884]; l22210884@tijuana.tecnm.mx
 
 Modelado de Sistemas Fisiológicos
 
